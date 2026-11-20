@@ -1,3 +1,9 @@
+<img width="1920" height="995" alt="image" src="https://github.com/user-attachments/assets/7fbcef3e-d660-491b-affe-815676ec0fbc" />
+One price. Every tool.
+Even the ones we ship next.
+[Persocia.com](https://persocia.com)
+
+
 # ASO Copilot
 
 A self-hosted, free alternative to tools like rankd.dev/AppTweak/ASOMobile for developers managing
